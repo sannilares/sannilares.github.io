@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "78376d440136b1ec01e810c7c0ad5a09",
+    "revision": "e052fd35e7c4d84ba91a54b3083a9dca",
     "url": "sannilares.github.io/index.html"
   },
   {
-    "revision": "12ea13441a234f3c296b",
-    "url": "sannilares.github.io/static/css/main.44a09822.chunk.css"
+    "revision": "8b3c36337058c2b9168b",
+    "url": "sannilares.github.io/static/css/main.73e67b3f.chunk.css"
   },
   {
     "revision": "9883045472e67707988e",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "sannilares.github.io/static/js/2.da73de6e.chunk.js.LICENSE"
   },
   {
-    "revision": "12ea13441a234f3c296b",
-    "url": "sannilares.github.io/static/js/main.69083811.chunk.js"
+    "revision": "8b3c36337058c2b9168b",
+    "url": "sannilares.github.io/static/js/main.284ecf3a.chunk.js"
   },
   {
     "revision": "e9b383cfbe338c03db16",

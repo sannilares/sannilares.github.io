@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "sannilares.github.io/static/css/main.44a09822.chunk.css",
-    "main.js": "sannilares.github.io/static/js/main.69083811.chunk.js",
-    "main.js.map": "sannilares.github.io/static/js/main.69083811.chunk.js.map",
+    "main.css": "sannilares.github.io/static/css/main.73e67b3f.chunk.css",
+    "main.js": "sannilares.github.io/static/js/main.284ecf3a.chunk.js",
+    "main.js.map": "sannilares.github.io/static/js/main.284ecf3a.chunk.js.map",
     "runtime-main.js": "sannilares.github.io/static/js/runtime-main.4ddfbb1d.js",
     "runtime-main.js.map": "sannilares.github.io/static/js/runtime-main.4ddfbb1d.js.map",
     "static/js/2.da73de6e.chunk.js": "sannilares.github.io/static/js/2.da73de6e.chunk.js",
     "static/js/2.da73de6e.chunk.js.map": "sannilares.github.io/static/js/2.da73de6e.chunk.js.map",
     "index.html": "sannilares.github.io/index.html",
-    "precache-manifest.2f492044a7d12c656ef408037f71fa49.js": "sannilares.github.io/precache-manifest.2f492044a7d12c656ef408037f71fa49.js",
+    "precache-manifest.885e400a1ac903baf26a2e3cf3231fa0.js": "sannilares.github.io/precache-manifest.885e400a1ac903baf26a2e3cf3231fa0.js",
     "service-worker.js": "sannilares.github.io/service-worker.js",
-    "static/css/main.44a09822.chunk.css.map": "sannilares.github.io/static/css/main.44a09822.chunk.css.map",
+    "static/css/main.73e67b3f.chunk.css.map": "sannilares.github.io/static/css/main.73e67b3f.chunk.css.map",
     "static/js/2.da73de6e.chunk.js.LICENSE": "sannilares.github.io/static/js/2.da73de6e.chunk.js.LICENSE",
     "static/media/Lopputyö.png": "sannilares.github.io/static/media/Lopputyö.8e513d85.png",
     "static/media/Nettisivut.png": "sannilares.github.io/static/media/Nettisivut.3e6e748d.png",
@@ -43,7 +43,7 @@
   "entrypoints": [
     "static/js/runtime-main.4ddfbb1d.js",
     "static/js/2.da73de6e.chunk.js",
-    "static/css/main.44a09822.chunk.css",
-    "static/js/main.69083811.chunk.js"
+    "static/css/main.73e67b3f.chunk.css",
+    "static/js/main.284ecf3a.chunk.js"
   ]
 }
