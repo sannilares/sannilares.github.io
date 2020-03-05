@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "sannilares.github.io/static/css/main.b097f9b8.chunk.css",
-    "main.js": "sannilares.github.io/static/js/main.1680b739.chunk.js",
-    "main.js.map": "sannilares.github.io/static/js/main.1680b739.chunk.js.map",
+    "main.css": "sannilares.github.io/static/css/main.8ada8b56.chunk.css",
+    "main.js": "sannilares.github.io/static/js/main.3c2b0187.chunk.js",
+    "main.js.map": "sannilares.github.io/static/js/main.3c2b0187.chunk.js.map",
     "runtime-main.js": "sannilares.github.io/static/js/runtime-main.4ddfbb1d.js",
     "runtime-main.js.map": "sannilares.github.io/static/js/runtime-main.4ddfbb1d.js.map",
     "static/js/2.cbbf998f.chunk.js": "sannilares.github.io/static/js/2.cbbf998f.chunk.js",
     "static/js/2.cbbf998f.chunk.js.map": "sannilares.github.io/static/js/2.cbbf998f.chunk.js.map",
     "index.html": "sannilares.github.io/index.html",
-    "precache-manifest.e6cbf101297666d8ca3c2b11a029cb8c.js": "sannilares.github.io/precache-manifest.e6cbf101297666d8ca3c2b11a029cb8c.js",
+    "precache-manifest.229ec84517e6d596b3d1bcdf7e94e32f.js": "sannilares.github.io/precache-manifest.229ec84517e6d596b3d1bcdf7e94e32f.js",
     "service-worker.js": "sannilares.github.io/service-worker.js",
-    "static/css/main.b097f9b8.chunk.css.map": "sannilares.github.io/static/css/main.b097f9b8.chunk.css.map",
+    "static/css/main.8ada8b56.chunk.css.map": "sannilares.github.io/static/css/main.8ada8b56.chunk.css.map",
     "static/js/2.cbbf998f.chunk.js.LICENSE": "sannilares.github.io/static/js/2.cbbf998f.chunk.js.LICENSE",
     "static/media/Lopputyö.png": "sannilares.github.io/static/media/Lopputyö.8e513d85.png",
     "static/media/Nettisivut.png": "sannilares.github.io/static/media/Nettisivut.3e6e748d.png",
@@ -43,7 +43,7 @@
   "entrypoints": [
     "static/js/runtime-main.4ddfbb1d.js",
     "static/js/2.cbbf998f.chunk.js",
-    "static/css/main.b097f9b8.chunk.css",
-    "static/js/main.1680b739.chunk.js"
+    "static/css/main.8ada8b56.chunk.css",
+    "static/js/main.3c2b0187.chunk.js"
   ]
 }
