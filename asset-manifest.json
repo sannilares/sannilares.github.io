@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sannilares.github.io/static/css/main.29101545.chunk.css",
-    "main.js": "/sannilares.github.io/static/js/main.65caa1fd.chunk.js",
-    "main.js.map": "/sannilares.github.io/static/js/main.65caa1fd.chunk.js.map",
+    "main.css": "/sannilares.github.io/static/css/main.f2c6c366.chunk.css",
+    "main.js": "/sannilares.github.io/static/js/main.0d16bcb5.chunk.js",
+    "main.js.map": "/sannilares.github.io/static/js/main.0d16bcb5.chunk.js.map",
     "runtime-main.js": "/sannilares.github.io/static/js/runtime-main.aa6a41d5.js",
     "runtime-main.js.map": "/sannilares.github.io/static/js/runtime-main.aa6a41d5.js.map",
     "static/js/2.e8bdfe04.chunk.js": "/sannilares.github.io/static/js/2.e8bdfe04.chunk.js",
     "static/js/2.e8bdfe04.chunk.js.map": "/sannilares.github.io/static/js/2.e8bdfe04.chunk.js.map",
     "index.html": "/sannilares.github.io/index.html",
-    "precache-manifest.501a5eea21bfcee669869b40703945f5.js": "/sannilares.github.io/precache-manifest.501a5eea21bfcee669869b40703945f5.js",
+    "precache-manifest.cb25daa5b3b87294f501874d4dd3a489.js": "/sannilares.github.io/precache-manifest.cb25daa5b3b87294f501874d4dd3a489.js",
     "service-worker.js": "/sannilares.github.io/service-worker.js",
-    "static/css/main.29101545.chunk.css.map": "/sannilares.github.io/static/css/main.29101545.chunk.css.map",
+    "static/css/main.f2c6c366.chunk.css.map": "/sannilares.github.io/static/css/main.f2c6c366.chunk.css.map",
     "static/js/2.e8bdfe04.chunk.js.LICENSE.txt": "/sannilares.github.io/static/js/2.e8bdfe04.chunk.js.LICENSE.txt",
     "static/media/Lopputyö.png": "/sannilares.github.io/static/media/Lopputyö.8e513d85.png",
     "static/media/Nettisivut.png": "/sannilares.github.io/static/media/Nettisivut.3e6e748d.png",
@@ -26,7 +26,6 @@
     "static/media/Portfolio5.png": "/sannilares.github.io/static/media/Portfolio5.c036ffcc.png",
     "static/media/Portfolio6.png": "/sannilares.github.io/static/media/Portfolio6.d11e9d3f.png",
     "static/media/Portfolio7.png": "/sannilares.github.io/static/media/Portfolio7.39c0c918.png",
-    "static/media/Portfolio_kuva.jpg": "/sannilares.github.io/static/media/Portfolio_kuva.9fd98177.jpg",
     "static/media/Ryhmäkuva_2019-min.jpg": "/sannilares.github.io/static/media/Ryhmäkuva_2019-min.fc7ae5e4.jpg",
     "static/media/Tuotekuva-Asetelma-154-min.jpg": "/sannilares.github.io/static/media/Tuotekuva-Asetelma-154-min.75f05c15.jpg",
     "static/media/call-24px.svg": "/sannilares.github.io/static/media/call-24px.f3b7d629.svg",
@@ -36,6 +35,7 @@
     "static/media/minä.jpg": "/sannilares.github.io/static/media/minä.b414a0cc.jpg",
     "static/media/muoti-min.JPG": "/sannilares.github.io/static/media/muoti-min.9348b2a4.JPG",
     "static/media/portaat-min.JPG": "/sannilares.github.io/static/media/portaat-min.cb39b203.JPG",
+    "static/media/sanni.jpg": "/sannilares.github.io/static/media/sanni.43f74a7a.jpg",
     "static/media/uncover.webm": "/sannilares.github.io/static/media/uncover.8e186bf4.webm",
     "static/media/videoImg.png": "/sannilares.github.io/static/media/videoImg.0ce8c722.png",
     "static/media/videoImg2.png": "/sannilares.github.io/static/media/videoImg2.54549db4.png"
@@ -43,7 +43,7 @@
   "entrypoints": [
     "static/js/runtime-main.aa6a41d5.js",
     "static/js/2.e8bdfe04.chunk.js",
-    "static/css/main.29101545.chunk.css",
-    "static/js/main.65caa1fd.chunk.js"
+    "static/css/main.f2c6c366.chunk.css",
+    "static/js/main.0d16bcb5.chunk.js"
   ]
 }
