@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/sannilares.github.io/static/css/main.a46b0f34.chunk.css",
-    "main.js": "/sannilares.github.io/static/js/main.03d6b1fa.chunk.js",
-    "main.js.map": "/sannilares.github.io/static/js/main.03d6b1fa.chunk.js.map",
+    "main.css": "/sannilares.github.io/static/css/main.5804aa1a.chunk.css",
+    "main.js": "/sannilares.github.io/static/js/main.696c7740.chunk.js",
+    "main.js.map": "/sannilares.github.io/static/js/main.696c7740.chunk.js.map",
     "runtime-main.js": "/sannilares.github.io/static/js/runtime-main.aa6a41d5.js",
     "runtime-main.js.map": "/sannilares.github.io/static/js/runtime-main.aa6a41d5.js.map",
-    "static/js/2.87dcbcd9.chunk.js": "/sannilares.github.io/static/js/2.87dcbcd9.chunk.js",
-    "static/js/2.87dcbcd9.chunk.js.map": "/sannilares.github.io/static/js/2.87dcbcd9.chunk.js.map",
+    "static/js/2.cb4502fe.chunk.js": "/sannilares.github.io/static/js/2.cb4502fe.chunk.js",
+    "static/js/2.cb4502fe.chunk.js.map": "/sannilares.github.io/static/js/2.cb4502fe.chunk.js.map",
     "index.html": "/sannilares.github.io/index.html",
-    "precache-manifest.c4d46799174eb431ec2e6270c4389606.js": "/sannilares.github.io/precache-manifest.c4d46799174eb431ec2e6270c4389606.js",
+    "precache-manifest.129571d58ce5a08b5ebdab73d67761d7.js": "/sannilares.github.io/precache-manifest.129571d58ce5a08b5ebdab73d67761d7.js",
     "service-worker.js": "/sannilares.github.io/service-worker.js",
-    "static/css/main.a46b0f34.chunk.css.map": "/sannilares.github.io/static/css/main.a46b0f34.chunk.css.map",
-    "static/js/2.87dcbcd9.chunk.js.LICENSE.txt": "/sannilares.github.io/static/js/2.87dcbcd9.chunk.js.LICENSE.txt",
+    "static/css/main.5804aa1a.chunk.css.map": "/sannilares.github.io/static/css/main.5804aa1a.chunk.css.map",
+    "static/js/2.cb4502fe.chunk.js.LICENSE.txt": "/sannilares.github.io/static/js/2.cb4502fe.chunk.js.LICENSE.txt",
     "static/media/Lopputyö.png": "/sannilares.github.io/static/media/Lopputyö.8e513d85.png",
     "static/media/Nettisivut.png": "/sannilares.github.io/static/media/Nettisivut.3e6e748d.png",
     "static/media/Nettisivut3.png": "/sannilares.github.io/static/media/Nettisivut3.88d40292.png",
@@ -26,8 +26,13 @@
     "static/media/Portfolio5.png": "/sannilares.github.io/static/media/Portfolio5.c036ffcc.png",
     "static/media/Portfolio6.png": "/sannilares.github.io/static/media/Portfolio6.d11e9d3f.png",
     "static/media/Portfolio7.png": "/sannilares.github.io/static/media/Portfolio7.39c0c918.png",
+    "static/media/PortfolioTieto.png": "/sannilares.github.io/static/media/PortfolioTieto.a1f2aaa6.png",
+    "static/media/PortfolioTieto2.png": "/sannilares.github.io/static/media/PortfolioTieto2.aa3e2eaf.png",
+    "static/media/RoskApp2.png": "/sannilares.github.io/static/media/RoskApp2.7a0a36cc.png",
     "static/media/Ryhmäkuva_2019-min.jpg": "/sannilares.github.io/static/media/Ryhmäkuva_2019-min.fc7ae5e4.jpg",
     "static/media/Tuotekuva-Asetelma-154-min.jpg": "/sannilares.github.io/static/media/Tuotekuva-Asetelma-154-min.75f05c15.jpg",
+    "static/media/Väestöliitto2.png": "/sannilares.github.io/static/media/Väestöliitto2.282c0ca0.png",
+    "static/media/Väestöliitto3.png": "/sannilares.github.io/static/media/Väestöliitto3.2c521a24.png",
     "static/media/call-24px.svg": "/sannilares.github.io/static/media/call-24px.f3b7d629.svg",
     "static/media/kamera-min.JPG": "/sannilares.github.io/static/media/kamera-min.8cf396fb.JPG",
     "static/media/kauneus.webm": "/sannilares.github.io/static/media/kauneus.c39e9b93.webm",
@@ -42,8 +47,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.aa6a41d5.js",
-    "static/js/2.87dcbcd9.chunk.js",
-    "static/css/main.a46b0f34.chunk.css",
-    "static/js/main.03d6b1fa.chunk.js"
+    "static/js/2.cb4502fe.chunk.js",
+    "static/css/main.5804aa1a.chunk.css",
+    "static/js/main.696c7740.chunk.js"
   ]
 }
