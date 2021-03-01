@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sannilares.github.io/static/css/main.5804aa1a.chunk.css",
-    "main.js": "/sannilares.github.io/static/js/main.696c7740.chunk.js",
-    "main.js.map": "/sannilares.github.io/static/js/main.696c7740.chunk.js.map",
+    "main.js": "/sannilares.github.io/static/js/main.85957e5a.chunk.js",
+    "main.js.map": "/sannilares.github.io/static/js/main.85957e5a.chunk.js.map",
     "runtime-main.js": "/sannilares.github.io/static/js/runtime-main.aa6a41d5.js",
     "runtime-main.js.map": "/sannilares.github.io/static/js/runtime-main.aa6a41d5.js.map",
     "static/js/2.cb4502fe.chunk.js": "/sannilares.github.io/static/js/2.cb4502fe.chunk.js",
     "static/js/2.cb4502fe.chunk.js.map": "/sannilares.github.io/static/js/2.cb4502fe.chunk.js.map",
     "index.html": "/sannilares.github.io/index.html",
-    "precache-manifest.129571d58ce5a08b5ebdab73d67761d7.js": "/sannilares.github.io/precache-manifest.129571d58ce5a08b5ebdab73d67761d7.js",
+    "precache-manifest.05326527e73b01e7fec3a0225edbaa52.js": "/sannilares.github.io/precache-manifest.05326527e73b01e7fec3a0225edbaa52.js",
     "service-worker.js": "/sannilares.github.io/service-worker.js",
     "static/css/main.5804aa1a.chunk.css.map": "/sannilares.github.io/static/css/main.5804aa1a.chunk.css.map",
     "static/js/2.cb4502fe.chunk.js.LICENSE.txt": "/sannilares.github.io/static/js/2.cb4502fe.chunk.js.LICENSE.txt",
@@ -49,6 +49,6 @@
     "static/js/runtime-main.aa6a41d5.js",
     "static/js/2.cb4502fe.chunk.js",
     "static/css/main.5804aa1a.chunk.css",
-    "static/js/main.696c7740.chunk.js"
+    "static/js/main.85957e5a.chunk.js"
   ]
 }
