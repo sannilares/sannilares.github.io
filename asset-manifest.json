@@ -1,40 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.f9d8d96e.css",
-    "main.js": "/static/js/main.48929a47.js",
+    "main.css": "/static/css/main.946a162a.css",
+    "main.js": "/static/js/main.5c6207e8.js",
     "static/media/vandadrawing.png": "/static/media/vandadrawing.4fa10e34fff8d8148eaf.png",
     "static/media/mina.jpg": "/static/media/mina.49f31a8fce1d9251974e.jpg",
-    "static/media/otankoshorts.png": "/static/media/otankoshorts.82b92da1e1f643a6b3c6.png",
     "static/media/vaestoliitto.png": "/static/media/vaestoliitto.82297fdc9b4de5a5824b.png",
-    "static/media/POP-R.png": "/static/media/POP-R.fea134785fb5a3af5b0b.png",
-    "static/media/portfolio-BP.png": "/static/media/portfolio-BP.e7483a1c3777913492d9.png",
     "static/media/pop.png": "/static/media/pop.3b72122e206ebae8cd28.png",
-    "static/media/portfolio.png": "/static/media/portfolio.2a3cccbf330d279150de.png",
-    "static/media/peukku.png": "/static/media/peukku.3f5711d1d2e3a7fbc0a0.png",
+    "static/media/Portfolio.png": "/static/media/Portfolio.2a3cccbf330d279150de.png",
     "static/media/LT.png": "/static/media/LT.52e458a1b96b543e640d.png",
     "static/media/Veikot.png": "/static/media/Veikot.bfee7e204ec49d0cdd82.png",
     "static/media/sanni.jpg": "/static/media/sanni.d802dda4f55dad57cc01.jpg",
-    "static/media/vaestoliitto-BP.png": "/static/media/vaestoliitto-BP.8eb77b3bd13b9488ef09.png",
-    "static/media/POP-S.png": "/static/media/POP-S.255eaa86e3239a33cb06.png",
-    "static/media/portfolio-S.png": "/static/media/portfolio-S.e4edcfe2c002adc57bc3.png",
-    "static/media/vaestoliitto-R.png": "/static/media/vaestoliitto-R.d28602f59162915ca5c5.png",
-    "static/media/vaestoliitto-S.png": "/static/media/vaestoliitto-S.e51cba00f92fe7c76017.png",
-    "static/media/LT-SR.png": "/static/media/LT-SR.453fed145cadf726892c.png",
-    "static/media/JapaniFlyer.png": "/static/media/JapaniFlyer.a4482c83aeac91d641d1.png",
-    "static/media/LT-BP.png": "/static/media/LT-BP.c42a74589215ed0b6a1f.png",
-    "static/media/Luma.png": "/static/media/Luma.58e138f9883525bae76b.png",
-    "static/media/POP-BP.png": "/static/media/POP-BP.e4f76e18312f21ce54f4.png",
-    "static/media/RecyclePoster.png": "/static/media/RecyclePoster.ec052fe15053e22cc8fc.png",
-    "static/media/JapaniPoster.png": "/static/media/JapaniPoster.fc5af1b27bc866bf97e1.png",
-    "static/media/taitodude.png": "/static/media/taitodude.68bfe0aa6502771bd8db.png",
+    "static/media/VandaBedInterior.jpg": "/static/media/VandaBedInterior.97a43c0b76774188b7be.jpg",
+    "static/media/VandaKitchenView.jpg": "/static/media/VandaKitchenView.2ab48e33a7eafad48c1a.jpg",
+    "static/media/VandaMountainView.jpg": "/static/media/VandaMountainView.952ebe9220d0a96f2393.jpg",
+    "static/media/VandaSkylightBuild.jpg": "/static/media/VandaSkylightBuild.8af600f8518107973d4c.jpg",
+    "static/media/DesigningAcrossSystems.jpeg": "/static/media/DesigningAcrossSystems.5f68acdedba2e1c84580.jpeg",
     "index.html": "/index.html",
     "static/media/call-24px.svg": "/static/media/call-24px.c49b9f85c494d1d28a44dc898e88f106.svg",
     "static/media/mail_outline-24px.svg": "/static/media/mail_outline-24px.7089e375003974990f2db27368723d92.svg",
-    "main.f9d8d96e.css.map": "/static/css/main.f9d8d96e.css.map",
-    "main.48929a47.js.map": "/static/js/main.48929a47.js.map"
+    "main.946a162a.css.map": "/static/css/main.946a162a.css.map",
+    "main.5c6207e8.js.map": "/static/js/main.5c6207e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9d8d96e.css",
-    "static/js/main.48929a47.js"
+    "static/css/main.946a162a.css",
+    "static/js/main.5c6207e8.js"
   ]
 }
