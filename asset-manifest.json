@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.946a162a.css",
-    "main.js": "/static/js/main.5c6207e8.js",
+    "main.css": "/static/css/main.d6c768c2.css",
+    "main.js": "/static/js/main.0089f222.js",
     "static/media/vandadrawing.png": "/static/media/vandadrawing.4fa10e34fff8d8148eaf.png",
     "static/media/mina.jpg": "/static/media/mina.49f31a8fce1d9251974e.jpg",
     "static/media/vaestoliitto.png": "/static/media/vaestoliitto.82297fdc9b4de5a5824b.png",
@@ -18,11 +18,11 @@
     "index.html": "/index.html",
     "static/media/call-24px.svg": "/static/media/call-24px.c49b9f85c494d1d28a44dc898e88f106.svg",
     "static/media/mail_outline-24px.svg": "/static/media/mail_outline-24px.7089e375003974990f2db27368723d92.svg",
-    "main.946a162a.css.map": "/static/css/main.946a162a.css.map",
-    "main.5c6207e8.js.map": "/static/js/main.5c6207e8.js.map"
+    "main.d6c768c2.css.map": "/static/css/main.d6c768c2.css.map",
+    "main.0089f222.js.map": "/static/js/main.0089f222.js.map"
   },
   "entrypoints": [
-    "static/css/main.946a162a.css",
-    "static/js/main.5c6207e8.js"
+    "static/css/main.d6c768c2.css",
+    "static/js/main.0089f222.js"
   ]
 }
